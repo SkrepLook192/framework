@@ -1,19 +1,4 @@
-# Подробный разбор 4 практических работ: запуск, код, выводы и улучшения
-
-## Важно
-
-В этих 4 работах у тебя не Jupyter-тетради, а готовые учебные проекты. Поэтому запуск идёт не через Jupyter Notebook, а так:
-
-- работа №1 — через Visual Studio 2022, потому что она на C# / ASP.NET Core;
-- работы №2, №3, №4 — через Node.js, потому что они на JavaScript.
-
-Ссылки на архивы:
-
-1. `Pr1_MinWebService_with_Swagger.zip`
-2. `Task2_JS_Modular_Framework.zip`
-3. `Task3_JS_DI_Lifetimes.zip`
-4. `Task4_JS_Plugin_Registry.zip`
-
+\
 ---
 
 # Практическая работа №1
